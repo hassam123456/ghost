@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58362809862",
+    "project_id": "ghostwalla-3ea17",
+    "storage_bucket": "ghostwalla-3ea17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58362809862:android:b674f19aa798619371fd87",
+        "android_client_info": {
+          "package_name": "com.hassam.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58362809862-cf4n06cr7a56f9580omjp4v2fe82ult9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1b_HDO7AMfucXIByP_CvJ5cCA8cLkgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58362809862-cf4n06cr7a56f9580omjp4v2fe82ult9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
